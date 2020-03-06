@@ -1,3 +1,3 @@
 # TB3-format-Data-on-Disk
-Big Daddy's Toolbox 3: format() 
-2 pages - revised and updated 4/16/18
+Big Daddy's Toolbox 3: Python formatting
+2 pages - revised and updated 3/6/2020
